@@ -1,4 +1,6 @@
 # RECIEPES-_APP
+Author - Siddhanth Chapade
+
 Existing recipe websites often have cluttered interfaces, irrelevant search results, and effective filtering options. This leads to frustration for users who spend significant time browsing through countless recipes before finding something that suits their dietary needs, skill level, or available ingredients.
 
 We need a user-friendly recipe discovery website that addresses these challenges by:
